@@ -15,7 +15,7 @@ genuinely interesting and is putting in the hours to get better at it.
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Git](https://skillicons.dev/icons?i=git)
 
-**Networking:** CCNA (studying/certified — pick whichever applies)  
+**Networking:** CCNA certified 
 **Interests:** Ethical hacking, network security, scripting & automation
 
 ---
@@ -23,9 +23,3 @@ genuinely interesting and is putting in the hours to get better at it.
 ## 📁 Projects
 
 _I'm working on adding projects here — stay tuned._
-
----
-
-## 📫 Get in touch
-
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
