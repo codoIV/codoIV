@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Elia 👋
 
-<!--
-**codoIV/codoIV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I  graduated from I.T.I.S. Volta (Alessandria, IT) in June of 2026 with a focus on
+Computer Science and Networking. I'm currently building on what I studied
+through self-learning, mostly around cybersecurity and Python.
 
-Here are some ideas to get you started:
+Not much production experience yet — just someone who finds this stuff
+genuinely interesting and is putting in the hours to get better at it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 What I work with
+
+![Python](https://skillicons.dev/icons?i=python)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Git](https://skillicons.dev/icons?i=git)
+
+**Networking:** CCNA (studying/certified — pick whichever applies)  
+**Interests:** Ethical hacking, network security, scripting & automation
+
+---
+
+## 📁 Projects
+
+_I'm working on adding projects here — stay tuned._
+
+---
+
+## 📫 Get in touch
+
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
