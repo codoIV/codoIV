@@ -14,6 +14,7 @@ jobs:
         with:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          REPOSITORY: codoIV/codoIV  # Add this line
           API_BASE_URL: https://wakatime.com/api
           SHOW_TITLE: true
           SECTION_NAME: waka
@@ -33,4 +34,3 @@ jobs:
           COMMITTER_EMAIL: action-bot@github.com
           AUTHOR_NAME: Elia Fantino
           AUTHOR_EMAIL: eliafantino@gmail.com
-
