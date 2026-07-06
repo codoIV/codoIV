@@ -14,9 +14,15 @@ genuinely interesting and is putting in the hours to get better at it.
 ![Python](https://skillicons.dev/icons?i=python)
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Git](https://skillicons.dev/icons?i=git)
+![Kali](https://skillicons.dev/icons?i=kali)
 
 **Networking:** CCNA certified  
 **Interests:** Ethical hacking, network security, scripting & automation
+
+---
+
+## ▶️ Now playing
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=9n0q48qpltoietq5jsxucf9k2&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
