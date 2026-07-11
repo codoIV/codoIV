@@ -1,5 +1,6 @@
 # Hi, I'm Elia 👋
 
+<p align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=Cybersecurity+%7C+Software+Engineering+%7C+Web+Development+%7C+Problem+Solving;Web+Development+%7C+Problem+Solving" alt="Typing SVG" /></p>
 I  graduated from I.T.I.S. Volta (Alessandria, IT) in June of 2026 with a focus on
 Computer Science and Networking. I'm currently building on what I studied
 through self-learning, mostly around cybersecurity and Python.
@@ -9,19 +10,24 @@ genuinely interesting and is putting in the hours to get better at it.
 
 ---
 
-## 🔧 What I work with
+## 🔧 Tech Stack & Tools
 
 ![Python](https://skillicons.dev/icons?i=python)
+![Flask](https://skillicons.dev/icons?i=flask)
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Git](https://skillicons.dev/icons?i=git)
 ![Kali](https://skillicons.dev/icons?i=kali)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VSCode](https://skillicons.dev/icons?i=vscode)
 
 **Networking:** CCNA certified  
 **Interests:** Ethical hacking, network security, scripting & automation
 
 ---
 
-## Analytics
+## 📊 Analytics
 
 <!--START_SECTION:waka-->
 
