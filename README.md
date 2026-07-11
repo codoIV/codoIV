@@ -1,6 +1,6 @@
 # Hi, I'm Elia 👋
 
-<p align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=Cybersecurity+%7C+Software+Engineering+%7C+Web+Development+%7C+Problem+Solving;Web+Development+%7C+Problem+Solving" alt="Typing SVG" /></p>
+<p align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=27&duration=3000&pause=1000&color=38CED4&vCenter=true&width=600&lines=Cybersecurity+%7C+Software+Engineering+%7C+Web+Development+%7C+Problem+Solving;Web+Development+%7C+Problem+Solving"alt="Typing SVG" /></p>
 I  graduated from I.T.I.S. Volta (Alessandria, IT) in June of 2026 with a focus on
 Computer Science and Networking. I'm currently building on what I studied
 through self-learning, mostly around cybersecurity and Python.
