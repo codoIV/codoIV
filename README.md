@@ -8,19 +8,15 @@ through self-learning, mostly around cybersecurity and Python.
 Not much production experience yet — just someone who finds this stuff
 genuinely interesting and is putting in the hours to get better at it.
 
----
+<br>
 
-## 🔧 Tech Stack & Tools
+<h2 align="center">🔧 Tech Stack & Tools</h2>
 
-![Python](https://skillicons.dev/icons?i=python)
-![Flask](https://skillicons.dev/icons?i=flask)
-![Linux](https://skillicons.dev/icons?i=linux)
-![Git](https://skillicons.dev/icons?i=git)
-![Kali](https://skillicons.dev/icons?i=kali)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VSCode](https://skillicons.dev/icons?i=vscode)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,linux,git,kali,html,css,github,vscode" />
+</p>
+
+<br>
 
 **Networking:** CCNA certified  
 **Interests:** Ethical hacking, network security, scripting & automation
