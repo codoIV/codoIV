@@ -50,3 +50,13 @@ Other         3 mins                -------------------------   00.27 %
 ## ▶️ Now playing
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=9n0q48qpltoietq5jsxucf9k2&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
+--- 
+## Work in progress 
+CLI tool made in Python that takes a domain and outputs a plain-English security report, covering the following checks:
+
+- SSL certificate status (expiry, weak ciphers)
+- Open ports on common services
+- Security headers (HSTS, CSP, X-Frame-Options, etc.)
+- Exposed admin panels / common sensitive paths (/wp-admin, /.env, /admin, etc.)
+- DNS/email security (SPF, DKIM, DMARC records)
+- Breach check for the domain's email addresses via HaveIBeenPwned API
