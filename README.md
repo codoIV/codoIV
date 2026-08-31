@@ -28,19 +28,19 @@ genuinely interesting and is putting in the hours to get better at it.
 <!--START_SECTION:waka-->
 
 ```rust
-From: 23 March 2026 - To: 28 August 2026
+From: 23 March 2026 - To: 29 August 2026
 
-Total Time: 24 hrs 15 mins
+Total Time: 26 hrs 4 mins
 
-Python        20 hrs 53 mins        >>>>>>>>>>>>>>>>>>>>>----   85.90 %
-HTML          58 mins               >------------------------   03.98 %
-CSS           56 mins               >------------------------   03.85 %
-Git Config    19 mins               -------------------------   01.30 %
-JavaScript    18 mins               -------------------------   01.30 %
-PHP           18 mins               -------------------------   01.29 %
-Markdown      10 mins               -------------------------   00.73 %
-SQL           5 mins                -------------------------   00.39 %
-Other         3 mins                -------------------------   00.25 %
+Python        20 hrs 55 mins        >>>>>>>>>>>>>>>>>>>>-----   80.06 %
+CSS           1 hr 55 mins          >>-----------------------   07.37 %
+HTML          1 hr 41 mins          >>-----------------------   06.45 %
+JavaScript    23 mins               -------------------------   01.50 %
+Git Config    19 mins               -------------------------   01.21 %
+PHP           18 mins               -------------------------   01.20 %
+Markdown      10 mins               -------------------------   00.68 %
+SQL           5 mins                -------------------------   00.36 %
+Other         3 mins                -------------------------   00.24 %
 ```
 
 <!--END_SECTION:waka-->
