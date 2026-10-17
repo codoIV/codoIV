@@ -28,7 +28,7 @@ genuinely interesting and is putting in the hours to get better at it.
 <!--START_SECTION:waka-->
 
 ```rust
-From: 23 March 2026 - To: 14 October 2026
+From: 23 March 2026 - To: 15 October 2026
 
 Total Time: 73 hrs 38 mins
 
